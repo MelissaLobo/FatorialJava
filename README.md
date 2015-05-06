@@ -1,4 +1,4 @@
-# FatorialJava
+# Calculando o numero Fatorial com Java
 
 Programa simples que calcula o Fatorial de um numero inteiro. 
  - Calculo do fatorial de um numero de maneira simples imprimindo no console;
